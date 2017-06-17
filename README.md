@@ -1,0 +1,2 @@
+# GhOST
+GhOST Assistant
